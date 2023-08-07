@@ -1,3 +1,3 @@
 # chatglm-tuning
 
-test
+Lora-Tuning & P-tuning based on Chatglm-6B model
